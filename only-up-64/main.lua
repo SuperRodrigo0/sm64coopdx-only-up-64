@@ -20,7 +20,7 @@ gServerSettings.stayInLevelAfterStar = 2
 
 camera_set_use_course_specific_settings(0)
 
-local ou_flood_active = mod_active("Only Up 64 Flood")
+local ou_flood_active = mod_active("Flood")
 
 -- Play Only Up 64 Music
 local bgm = audio_stream_load("only-up-64.ogg")
